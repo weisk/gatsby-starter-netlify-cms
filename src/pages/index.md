@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Coffee is good but speed is gooder
+title: Coffee is good but too much coffee is bad
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
